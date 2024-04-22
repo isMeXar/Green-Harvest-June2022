@@ -2,7 +2,7 @@
 
 This repository documents the culmination of my final internship project at the Higher School of Technology of Agadir (EST), undertaken at Green Solutions, Agadir. The internship, spanning from April 15, 2022, to June 07, 2022, focused on the design and realization of a Harvest Management Application named "Green Harvest."
 
-![Green Harvest Banner](public/images/banner_github.png){ width=100% }
+![Green Harvest Banner](public/images/banner_github.png)
 
 ## Project Summary
 "Green Harvest" aims to streamline the daily harvest management process for Green Solutions by transitioning from traditional, manual methods to an efficient web-based application. The project encompassed three main phases: requirement gathering, design and conception, and implementation.
