@@ -1,65 +1,35 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Green Harvest
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+This repository documents the culmination of my final internship project at the Higher School of Technology of Agadir (EST), undertaken at Green Solutions, Agadir. The internship, spanning from April 15, 2022, to June 07, 2022, focused on the design and realization of a Harvest Management Application named "Green Harvest."
 
-## About Laravel
+## Project Summary
+"Green Harvest" aims to streamline the daily harvest management process for Green Solutions by transitioning from traditional, manual methods to an efficient web-based application. The project encompassed three main phases: requirement gathering, design and conception, and implementation.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+### General Description
+The application, "Green Harvest," facilitates the seamless management of daily harvest data, optimizing operations for Green Solutions. By leveraging web technologies and adopting a user-centric approach, the application simplifies data entry, tracking, and analysis.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+#### Problematic and Proposed Solution
+The conventional method of managing harvest data via manual record-keeping proved inefficient and prone to errors for Green Solutions. "Green Harvest" addresses this challenge by providing an online platform for real-time data recording and analysis, thereby enhancing productivity and accuracy.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### Objectives
+The primary objectives of "Green Harvest" include:
+- Designing and developing a user-friendly web application for efficient harvest management.
+- Enabling role-based access control to ensure secure and tailored user experiences.
+- Facilitating data visualization and analysis to track statistics, revenues, and crop waste.
+- Ensuring quick adoption and usability for all staff members involved in the harvesting process.
 
-## Learning Laravel
+### User Characteristics
+The target users of "Green Harvest" include company administrators and staff members directly involved in the harvest management process. Users are expected to have a basic understanding of computer systems to utilize the application effectively.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+### Scope
+The scope of "Green Harvest" encompasses:
+- User registration and role assignment by the super-administrator.
+- Management of farms, greenhouses, products, and client information.
+- Recording daily harvest data and tracking income from exported production.
+- Presentation of statistics through tables and charts.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### Requirements Specification
+The functional and non-functional requirements of "Green Harvest" are outlined to ensure the application's effectiveness, usability, and security. Functional requirements include user registration, data management, and reporting functionalities, while non-functional requirements focus on performance, usability, security, portability, and maintainability.
 
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-"# Green-Harvest-June2022" 
+## Conclusion
+"Green Harvest" represents a significant milestone in streamlining harvest management processes for Green Solutions. This repository documents the journey from project inception to application delivery, highlighting key phases, challenges, and outcomes achieved during the internship period.
