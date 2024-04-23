@@ -7,6 +7,23 @@ This repository documents the culmination of my final internship project at the 
 ## Project Summary
 "Green Harvest" aims to streamline the daily harvest management process for Green Solutions by transitioning from traditional, manual methods to an efficient web-based application. The project encompassed three main phases: requirement gathering, design and conception, and implementation.
 
+## Screenshots
+
+### Sign In Page
+![Sign In Page](public/images/login.PNG)
+
+### Home Page
+![Home Page](public/images/Green-Harvest-Acceuil.png)
+
+### Export Management Page
+![Export Management Page](public/images/Green-Harvest-Export.png)
+
+### Profile Settings
+![Profile Settings](public/images/Green-Harvest-Profile.png)
+
+### Managing User's Roles
+![Managing User's Roles](public/images/Green-Harvest-Roles.png)
+
 ### General Description
 The application, "Green Harvest," facilitates the seamless management of daily harvest data, optimizing operations for Green Solutions. By leveraging web technologies and adopting a user-centric approach, the application simplifies data entry, tracking, and analysis.
 
@@ -19,6 +36,13 @@ The primary objectives of "Green Harvest" include:
 - Enabling role-based access control to ensure secure and tailored user experiences.
 - Facilitating data visualization and analysis to track statistics, revenues, and crop waste.
 - Ensuring quick adoption and usability for all staff members involved in the harvesting process.
+
+## Database Schema
+
+### Database Model
+![Database Schema](database_schema.png)
+
+The database schema for "Green Harvest" is designed to efficiently manage and organize harvest-related data. It includes tables for farms, greenhouses, products, users, and roles, among others. This relational model ensures data integrity and facilitates smooth operations within the application.
 
 ### User Characteristics
 The target users of "Green Harvest" include company administrators and staff members directly involved in the harvest management process. Users are expected to have a basic understanding of computer systems to utilize the application effectively.
