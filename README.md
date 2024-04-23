@@ -40,7 +40,7 @@ The primary objectives of "Green Harvest" include:
 ## Database Schema
 
 ### Database Model
-![Database Schema](database_schema.png)
+![Database Schema](public/images/green_DB.png)
 
 The database schema for "Green Harvest" is designed to efficiently manage and organize harvest-related data. It includes tables for farms, greenhouses, products, users, and roles, among others. This relational model ensures data integrity and facilitates smooth operations within the application.
 
