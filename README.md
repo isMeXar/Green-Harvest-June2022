@@ -59,4 +59,4 @@ The database schema for "Green Harvest" is designed to efficiently manage and or
 
 
 ## Conclusion
-This repository documents the journey from project inception to application delivery, highlighting key phases, challenges, and outcomes achieved during the internship period.
+While this repository documents the journey from project inception to application delivery, it also acknowledges that the work presented is not without room for improvement. Despite any imperfections, it highlights the key phases, challenges, and outcomes encountered during the internship period. Moving forward, this documentation serves as a valuable resource for reflection and learning.
